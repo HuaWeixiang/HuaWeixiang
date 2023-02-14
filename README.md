@@ -1,13 +1,13 @@
 <div align="center">
 
 <picture>
-<source srcset="https://github-readme-stats.vercel.app/api?username=HuaWeixiang&bg_color=222222&hide_border=true&theme=solarized-dark&locale=en&border_radius=10&hide_title=true&show_icons=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)" />
+<source srcset="https://github-readme-stats.vercel.app/api?username=HuaWeixiang&bg_color=17181A&hide_border=true&theme=solarized-dark&locale=en&border_radius=10&hide_title=true&show_icons=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)" />
 <source srcset="https://github-readme-stats.vercel.app/api?username=HuaWeixiang&bg_color=ffffff&hide_border=true&theme=solarized-light&locale=en&border_radius=10&hide_title=true&show_icons=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 <img src="https://github-readme-stats.vercel.app/api?username=HuaWeixiang&bg_color=ffffff&hide_border=true&theme=solarized-light&locale=en&border_radius=10&hide_title=true&show_icons=true&include_all_commits=true&count_private=true" />
 </picture>
 
 <picture>
-<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HuaWeixiang&bg_color=222222&hide_border=true&theme=solarized-dark&locale=en&border_radius=10&layout=compact" media="(prefers-color-scheme: dark)" />
+<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HuaWeixiang&bg_color=17181A&hide_border=true&theme=solarized-dark&locale=en&border_radius=10&layout=compact" media="(prefers-color-scheme: dark)" />
 <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HuaWeixiang&bg_color=ffffff&hide_border=true&theme=solarized-light&locale=en&border_radius=10&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuaWeixiang&bg_color=ffffff&hide_border=true&theme=solarized-light&locale=en&border_radius=10&layout=compact" />
 </picture>
